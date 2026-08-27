@@ -161,5 +161,5 @@ export const NO_REPLY_TO_SHOW = [
 	},
 ];
 
-export const DUMMY_SENDER = "Withered Flowers";
-export const DUMMY_RECEIVER = "Moon Dev";
+export const DUMMY_SENDER = "thaelayma yè tharsuma";
+export const DUMMY_RECEIVER = "hey thar su ma I love u kwa";
